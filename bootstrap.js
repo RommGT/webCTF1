@@ -62,7 +62,7 @@ function _inheritsLoose(subClass, superClass) {
 var Util = function ($$$1) {
   /**
    * ------------------------------------------------------------------------
-   * LA ULTIMA PARTE DE LA FLAG ES: l4_WWW}
+   * LA ULTIMA PARTE DE LA FLAG ES: l4_WWW
    * ------------------------------------------------------------------------
    */
   var transition = false;
